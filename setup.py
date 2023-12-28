@@ -8,7 +8,7 @@ setup(
   author = 'Purls',                   # Type in your name
   author_email = 'None',      # Type in your E-Mail
   url = 'https://github.com/evanpurl/PurlsUtilities',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/evanpurl/PurlsUtilities/archive/refs/tags/Release.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/evanpurl/PurlsUtilities/archive/refs/tags/0.2.tar.gz',    # I explain this later on
   keywords = ['Discord', 'Discord.py', 'Discord Bot'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'discord.py',
