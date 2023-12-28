@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'PurlsUtilities',         # How you named your package folder (MyLib)
   packages = ['PurlsUtilities'],   # Chose the same as "name"
-  version = '0.1',      # Start with a small number and increase it with every change you make
+  version = '0.2',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'PurlsUtilities is a library created to make the storage and other tasks of a discord bot easier for me, allowing for less code.',   # Give a short description about your library
   author = 'Purls',                   # Type in your name
